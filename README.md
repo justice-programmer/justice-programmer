@@ -1,4 +1,4 @@
-A **Developer** Making cool things at boring times 
+_Nah id win_
 
 <!---
 justice-programmer/justice-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
