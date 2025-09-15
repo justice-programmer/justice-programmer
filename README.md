@@ -1,9 +1,5 @@
-```json
-{
- "username": "justice-programmer",
- "good-mood": false,
- "time-elapse-untilgoodmood": "fake-face-status"
-}
+```bash
+~$ git push origin PROD
 ```
 <!---
 justice-programmer/justice-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
