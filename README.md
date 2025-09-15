@@ -1,5 +1,9 @@
-```log
-ERROR pid(2709) is not in state `GOOD MOOD`
+```json
+{
+ "username": "justice-programmer",
+ "good-mood": false,
+ "time-elapse-untilgoodmood": "fake-face-status"
+}
 ```
 <!---
 justice-programmer/justice-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
